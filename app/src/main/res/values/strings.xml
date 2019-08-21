@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bus Tracker</string>
+    <string name="title_activity_maps">Bus Tracker</string>
+    <string name="search">Search</string>
+</resources>
